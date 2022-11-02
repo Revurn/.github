@@ -1,5 +1,5 @@
 # Revurn
-Revurn is a Text Communication Platform that keeps privacy in mind, Opening Mid 2022.
+Revurn is a Text Communication Platform that keeps privacy in mind, Opening Early/Mid 2023.
 
 ## External Links:
 [Website](https://revurn.com)<br>
