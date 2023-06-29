@@ -1,7 +1,7 @@
 > # 📢 Announcement
-> Revurn is taking longer than expected to create, So we aim to release Revurn by Mid 2023 instead of our Early 2023 goal.
+> Revurn has in fact taken an unexpected turn and we now aim to release by Mid 2023 as usual.
 
-# Opening in ~~2023~~ 2024!
+# Opening in ~~2024~~ 2023!
 Revurn is still currently in the works, But we aim to release by Mid 2023.
 
 # Revurn
