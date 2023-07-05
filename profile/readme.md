@@ -1,8 +1,5 @@
-> # 📢 Announcement
-> Revurn has in fact taken an unexpected turn and we now aim to release by Mid 2023 as usual.
-
-# Opening in ~~2024~~ 2023!
-Revurn is still currently in the works, But we aim to release by Mid 2023.
+# Release
+Revurn is still currently in the works, There is no estimated ETA for the release of this.
 
 # Revurn
 Revurn is a chat application with every users interests in mind, allowing you to build your own iconic space. 
