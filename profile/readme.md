@@ -1,10 +1,3 @@
-# Release
-Revurn is still currently in the works, There is no estimated ETA for the release of this.
-
-# Revurn
-Revurn is a chat application with every users interests in mind, allowing you to build your own iconic space. 
-
-## External Links:
-[Website](https://revurn.com)<br>
-[X (Formerly Twitter)](https://twitter.com/RevurnApp)<br>
-[Support](https://support.revurn.com)
+# Welcome to **Revurn**
+While we're currently hard at work constructing Revurn, You may follow our X (Formerly Twitter) account to stay up to date with the development and be notified of our release date!
+[X Page](https://x.com/revurnapp)
